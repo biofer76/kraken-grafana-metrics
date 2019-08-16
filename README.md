@@ -1,0 +1,12 @@
+
+```
+KRAKEN_API_KEY=kraken_api_key
+KRAKEN_API_SECRET=kraken_api_secret
+
+INFLUXDB_DB=db_name
+INFLUXDB_HTTP_AUTH_ENABLED=true
+INFLUXDB_ADMIN_USER=db_user
+INFLUXDB_ADMIN_PASSWORD=db_passwd
+
+```
+
